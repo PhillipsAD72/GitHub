@@ -9,3 +9,5 @@ V tomto repozitáři si budu ukládat poznámky související s Gitem a GitHubem
 
 [GitHub Docs (ENG)](https://docs.github.com/en)
 - [Formátování textu v Marketdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Rychlá práce s Github](https://www.voxcafe.cz/mindblog/clanky/tipy-a-triky/rychla-prace-s-github.html)
